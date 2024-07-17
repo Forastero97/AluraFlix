@@ -1,0 +1,25 @@
+/* Card.css */
+.card {
+    background-color: #222;
+    border: 1px solid #333;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .card img {
+    max-width: 100%;
+  }
+  
+  .card-content {
+    margin-top: 10px;
+  }
+  
+  .edit-button {
+    background-color: #ff5722;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
